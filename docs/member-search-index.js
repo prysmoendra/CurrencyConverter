@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"CurrencyConverter","l":"CurrencyConverter()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"CurrencyConverter","l":"idrToUsd(double)"},{"p":"<Unnamed>","c":"CurrencyConverter","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"CurrencyConverter","l":"usdToIdr(double)"}];updateSearchResults();
